@@ -1,0 +1,1 @@
+{"alpha": 0.5, "classes": 4, "client_num_in_each_pickles": 10, "client_num_in_total": 20, "dataset": "cifar10", "emnist_split": "byclass", "root": null, "seed": 0}
